@@ -1,0 +1,30 @@
+body{
+    height: 100%;
+    background-color: black;
+    background-repeat: no-repeat;
+    background: url(imagens/velha2.jpg) no-repeat center center fixed;
+}
+
+div{
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin: 45px;
+    font-variant: small-caps;
+}
+
+b {
+    text-align: center;
+    word-spacing: 8px;
+    font-variant: small-caps;
+}
+
+p1{
+    text-decoration: line-through;
+    text-align: center;
+    word-spacing: 7px;
+    font-style: normal;
+}
+

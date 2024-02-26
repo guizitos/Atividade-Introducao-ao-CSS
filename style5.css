@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.servico {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.titulo {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 10px;
+}
+.descricao {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #441313;
+}
+.curriculo .titulo {
+    color: #680c8d;
+}
+.entrevista .titulo {
+    color: #7e1e86;
+}
+.orientacao .titulo {
+    color: #bf40d8;
+}
